@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lilyef2000.github.io/"/>
-  <updated>2019-01-27T06:31:15.294Z</updated>
+  <updated>2019-01-27T08:06:40.939Z</updated>
   <id>http://lilyef2000.github.io/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一课</title>
+    <link href="http://lilyef2000.github.io/2019/01/27/di-yi-ke/"/>
+    <id>http://lilyef2000.github.io/2019/01/27/di-yi-ke/</id>
+    <published>2019-01-27T08:06:40.000Z</published>
+    <updated>2019-01-27T08:06:40.939Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://lilyef2000.github.io/2019/01/27/lesson1-week1/"/>
+    <id>http://lilyef2000.github.io/2019/01/27/lesson1-week1/</id>
+    <published>2019-01-27T08:04:48.316Z</published>
+    <updated>2018-11-12T22:38:01.894Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;第一门课-神经网络和深度学习-Neural-Networks-and-Deep-Learning&quot;&gt;&lt;a href=&quot;#第一门课-神经网络和深度学习-Neural-Networks-and-Deep-Learning&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
